@@ -23,6 +23,7 @@ Click Run to start the project on the selected device.
 ## 🛠️ Built with
 Kotlin</br>
 Jetpack Compose
+ViewModel
 
 ## 📚 Package Structure
 
@@ -36,6 +37,7 @@ com.denicks21.countdowntimer        # ROOT PACKAGE
 |   │   ├── Type                # Typography styles for the fonts used by the app.
 |
 ├── MainActivity                # Main activity
+├── TimerViewModel              # ViewModel operations
 ```
 
 ## 📎 Screenshots
