@@ -28,7 +28,7 @@ ViewModel
 ## 📚 Package Structure
 
 ```
-com.denicks21.countdowntimer        # ROOT PACKAGE
+com.denicks21.countdowntimer    # ROOT PACKAGE
 │
 ├── ui.theme                    # THEME FOLDER
 |   │   ├── Color               # Color palette used by the app.
