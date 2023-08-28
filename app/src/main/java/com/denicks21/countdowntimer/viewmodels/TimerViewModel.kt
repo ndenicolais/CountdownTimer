@@ -1,4 +1,4 @@
-package com.denicks21.countdowntimer
+package com.denicks21.countdowntimer.viewmodels
 
 import android.os.CountDownTimer
 import androidx.compose.runtime.mutableStateOf
