@@ -37,7 +37,8 @@ com.denicks21.countdowntimer    # ROOT PACKAGE
 |   │   ├── Type                # Typography styles for the fonts used by the app.
 |
 ├── MainActivity                # Main activity
-├── TimerViewModel              # ViewModel operations
+├── viewmodels                  # VIEWMODELS FOLDER
+|   │   ├──  TimerViewModel     # ViewModel operations
 ```
 
 ## 📎 Screenshots
